@@ -72,7 +72,10 @@ cp .env.example .env
 Once the setup is complete, start the web server:
 
 ```bash
+py thereyougo.py
+#or
 uvicorn thereyougo:app --reload
+
 ```
 
 Open your web browser and navigate to **`http://127.0.0.1:8000`**. You should now see the app's interface and can start creating videos!
@@ -82,6 +85,4 @@ Open your web browser and navigate to **`http://127.0.0.1:8000`**. You should no
 
 Contributions are welcome! If you have ideas for new features or find a bug, please open an issue or submit a pull request.
 
----
 
-*This project was created to demonstrate the power of AI in automating creative workflows.*
