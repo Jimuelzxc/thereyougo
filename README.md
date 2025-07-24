@@ -7,7 +7,6 @@ This project helps you create short videos using Artificial Intelligence. Give i
   </p>
 </div>
 
----
 
 <!-- Placeholder for a GIF of the app in action -->
 <!-- <div align="center">
