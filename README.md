@@ -53,6 +53,8 @@ You need to tell the app what your secret API keys are.
 Now you are ready to run the app! Use this command:
 
 ```bash
+py thereyougo.app
+#OR
 uvicorn thereyougo:app --reload
 ```
 
@@ -66,25 +68,3 @@ Open your web browser (like Chrome, Firefox, or Safari) and go to this address:
 
 You should now see the app's webpage, and you can start creating videos!
 
-## What It Does
-
-- **Makes Content with AI:**
-  - **Titles:** Creates good titles for your videos.
-  - **Scripts:** Writes a story for your video.
-  - **Images:** Makes pictures for your video.
-- **Makes Pictures:**
-  - Uses a tool called Pollinations.ai to make pictures.
-- **Makes Voice:**
-  - Reads your script out loud using different voices.
-- **Makes Videos:**
-  - Puts the pictures and voice together to make a video.
-  - Adds the words from the script to the video.
-
-## Help Welcome
-
-If you want to help make this app better, you can!
-
----
-
-*This app was made to show how AI can help make cool things.*
-# thereyougo
