@@ -1,9 +1,8 @@
 <div align="center">
   <img src="assets/logo.png" alt="There You Go Logo" width="150"/>
-  <h1>There You Go: AI Video Generator</h1>
+  <h1>There You Go</h1>
   <p>
-This project helps you create short videos using Artificial Intelligence. Give it a topic, and it will automatically generate a title, write a script, create matching images, and combine them into a final video complete with a voiceover and subtitles.
-
+    an automated video creation tool where AI handles everything—research, scriptwriting, images, voiceovers, subtitles— to create a complete video for you.
   </p>
 </div>
 
